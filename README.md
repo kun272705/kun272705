@@ -3,7 +3,6 @@ For programming language learners
 
 1. [HelloBash](https://github.com/kun272705/HelloBash)
 1. [HelloC](https://github.com/kun272705/HelloC)
-1. [HelloCPlusPlus](https://github.com/kun272705/HelloCPlusPlus)
 1. [HelloJava](https://github.com/kun272705/HelloJava)
 1. [HelloHTML](https://github.com/kun272705/HelloHTML)
 1. [HelloCSS](https://github.com/kun272705/HelloCSS)
