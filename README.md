@@ -5,7 +5,7 @@ For computer engineers
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
 1. [ProgrammingMaterials](https://github.com/kun272705/ProgrammingMaterials)
 
-For language users
+For language speakers
 
 1. [HelloBash](https://github.com/kun272705/HelloBash)
 1. [HelloC](https://github.com/kun272705/HelloC)
