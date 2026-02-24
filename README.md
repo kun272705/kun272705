@@ -22,7 +22,7 @@ For website developers
 
 For app developers
 
-For datacenter developers
+For gRPC developers
 
 For lovable users
 
