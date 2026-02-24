@@ -1,5 +1,5 @@
 
-For computer scientists
+For computer engineers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
