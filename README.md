@@ -1,12 +1,12 @@
 
 For programming language learners
 
-1. [Hello-Bash](https://github.com/kun272705/Hello-Bash)
-1. [Hello-C](https://github.com/kun272705/Hello-C)
-1. [Hello-C-Plus-Plus](https://github.com/kun272705/Hello-C-Plus-Plus)
-1. [Hello-Java](https://github.com/kun272705/Hello-Java)
-1. [Hello-JavaScript](https://github.com/kun272705/Hello-JavaScript)
-1. [Hello-HTML-CSS](https://github.com/kun272705/Hello-HTML-CSS)
+1. [HelloBash](https://github.com/kun272705/HelloBash)
+1. [HelloC](https://github.com/kun272705/HelloC)
+1. [HelloCPlusPlus](https://github.com/kun272705/HelloCPlusPlus)
+1. [HelloJava](https://github.com/kun272705/HelloJava)
+1. [HelloJavaScript](https://github.com/kun272705/HelloJavaScript)
+1. [HelloHTMLCSS](https://github.com/kun272705/HelloHTMLCSS)
 
 For website makers
 
