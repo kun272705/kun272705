@@ -1,4 +1,10 @@
 
+For computer lovers
+
+1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
+1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
+1. [ProgrammingMaterials](https://github.com/kun272705/ProgrammingMaterials)
+
 For programming language learners
 
 1. [HelloBash](https://github.com/kun272705/HelloBash)
