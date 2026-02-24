@@ -5,9 +5,9 @@ For programming language learners
 1. [HelloC](https://github.com/kun272705/HelloC)
 1. [HelloCPlusPlus](https://github.com/kun272705/HelloCPlusPlus)
 1. [HelloJava](https://github.com/kun272705/HelloJava)
-1. [HelloJavaScript](https://github.com/kun272705/HelloJavaScript)
 1. [HelloHTML](https://github.com/kun272705/HelloHTML)
 1. [HelloCSS](https://github.com/kun272705/HelloCSS)
+1. [HelloJavaScript](https://github.com/kun272705/HelloJavaScript)
 
 For website makers
 
