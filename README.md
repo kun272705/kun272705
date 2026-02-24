@@ -1,11 +1,11 @@
 
-For programmers
+For computer scientists
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
 1. [ProgrammingMaterials](https://github.com/kun272705/ProgrammingMaterials)
 
-For programming language learners
+For language learners
 
 1. [HelloBash](https://github.com/kun272705/HelloBash)
 1. [HelloC](https://github.com/kun272705/HelloC)
@@ -24,7 +24,7 @@ For app developers
 
 For datacenter developers
 
-For users
+For lovable users
 
 1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp)
 1. [AquamanEdgeExt](https://github.com/kun272705/AquamanEdgeExt)
