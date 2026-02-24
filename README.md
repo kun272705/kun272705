@@ -9,11 +9,13 @@ For programming language learners
 1. [HelloCSS](https://github.com/kun272705/HelloCSS)
 1. [HelloJavaScript](https://github.com/kun272705/HelloJavaScript)
 
-For website makers
+For website developers
 
 1. [WebsiteBuilder](https://github.com/kun272705/WebsiteBuilder)
 1. [WebsiteServer](https://github.com/kun272705/WebsiteServer)
 1. [JavaScriptPolyfiller](https://github.com/kun272705/JavaScriptPolyfiller)
+
+For datastore providers
 
 For users
 
