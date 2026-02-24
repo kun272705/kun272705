@@ -22,6 +22,8 @@ For website developers
 
 For nativeapp developers
 
+For CDN developers
+
 For datacenter developers
 
 For lovable consumers
