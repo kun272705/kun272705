@@ -5,7 +5,7 @@ For computer engineers
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
 1. [ProgrammingMaterials](https://github.com/kun272705/ProgrammingMaterials)
 
-For language speakers
+For language learners
 
 1. [HelloBash](https://github.com/kun272705/HelloBash)
 1. [HelloC](https://github.com/kun272705/HelloC)
@@ -22,7 +22,7 @@ For website developers
 
 For app developers
 
-For gRPC developers
+For datacenter developers
 
 For lovable users
 
