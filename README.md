@@ -24,7 +24,7 @@ For app developers
 
 For datacenter developers
 
-For lovable customers
+For lovable consumers
 
 1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp)
 1. [AquamanEdgeExt](https://github.com/kun272705/AquamanEdgeExt)
