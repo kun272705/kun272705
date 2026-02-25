@@ -22,7 +22,7 @@ For webapp developers
 
 For nativeapp developers
 
-For CDN developers
+For cacheserver developers
 
 For datacenter developers
 
