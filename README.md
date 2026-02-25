@@ -21,10 +21,6 @@ For web app developers
 
 For native app developers
 
-For web server developers
-
-1. [WebServer](https://github.com/kun272705/WebServer)
-
 For edge server developers
 
 1. [EdgeServer](https://github.com/kun272705/EdgeServer)
