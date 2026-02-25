@@ -30,9 +30,3 @@ For edge server developers
 For core server developers
 
 1. [MyCoreServer](https://github.com/kun272705/MyCoreServer)
-
-For consumers
-
-1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp)
-1. [AquamanmacOSApp](https://github.com/kun272705/AquamanmacOSApp)
-1. [AquamanEdgeExt](https://github.com/kun272705/AquamanEdgeExt)
