@@ -25,11 +25,11 @@ For mini program developers
 
 For edge server developers
 
-1. [EdgeServer](https://github.com/kun272705/EdgeServer)
+1. [EdgeServerBuilder](https://github.com/kun272705/EdgeServerBuilder)
 
 For core server developers
 
-1. [CoreServer](https://github.com/kun272705/CoreServer)
+1. [CoreServerBuilder](https://github.com/kun272705/CoreServerBuilder)
 
 For consumers
 
