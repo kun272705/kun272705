@@ -21,7 +21,7 @@ For web app developers
 
 For native app developers
 
-1. [WindowsAppBuilder](https://github.com/kun272705/WindowsAppBuilder)
+For mini app developers
 
 For edge server developers
 
