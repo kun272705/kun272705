@@ -21,11 +21,11 @@ For webapp developers
 
 For nativeapp developers
 
-For edgeserver developers
+For edge server developers
 
 1. [EdgeServer](https://github.com/kun272705/EdgeServer)
 
-For coreserver developers
+For core server developers
 
 1. [CoreServer](https://github.com/kun272705/CoreServer)
 
