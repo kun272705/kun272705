@@ -14,7 +14,7 @@ For language speakers
 1. [HelloCSS](https://github.com/kun272705/HelloCSS)
 1. [HelloJavaScript](https://github.com/kun272705/HelloJavaScript)
 
-For website developers
+For webapp developers
 
 1. [WebsiteBuilder](https://github.com/kun272705/WebsiteBuilder)
 1. [WebsiteServer](https://github.com/kun272705/WebsiteServer)
