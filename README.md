@@ -34,4 +34,6 @@ For core server developers
 For consumers
 
 1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp)
+1. [AquamanmacOSApp](https://github.com/kun272705/AquamanmacOSApp)
+1. [AquamanLinuxApp](https://github.com/kun272705/AquamanLinuxApp)
 1. [AquamanEdgeExt](https://github.com/kun272705/AquamanEdgeExt)
