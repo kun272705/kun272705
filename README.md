@@ -16,7 +16,7 @@ For programming language speakers
 
 For web app developers
 
-1. [WebAppBuilder](https://github.com/kun272705/WebAppBuilder)
+1. [MyWebApp](https://github.com/kun272705/MyWebApp)
 1. [JavaScriptPolyfiller](https://github.com/kun272705/JavaScriptPolyfiller)
 
 For native app developers
@@ -25,11 +25,11 @@ For mini program developers
 
 For edge server developers
 
-1. [EdgeServerBuilder](https://github.com/kun272705/EdgeServerBuilder)
+1. [MyEdgeServer](https://github.com/kun272705/MyEdgeServer)
 
 For core server developers
 
-1. [CoreServerBuilder](https://github.com/kun272705/CoreServerBuilder)
+1. [MyCoreServer](https://github.com/kun272705/MyCoreServer)
 
 For consumers
 
