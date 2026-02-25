@@ -24,7 +24,7 @@ For nativeapp developers
 
 For edgeserver developers
 
-For datacenter developers
+For coreserver developers
 
 For lovable consumers
 
