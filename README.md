@@ -31,7 +31,7 @@ For core server developers
 
 1. [MyCoreServer](https://github.com/kun272705/MyCoreServer)
 
-For consumers
+For web crawler developers
 
 1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp)
 1. [AquamanmacOSApp](https://github.com/kun272705/AquamanmacOSApp)
