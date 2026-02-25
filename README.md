@@ -22,7 +22,7 @@ For webapp developers
 
 For nativeapp developers
 
-For cacheserver developers
+For edgeserver developers
 
 For datacenter developers
 
