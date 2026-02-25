@@ -21,7 +21,7 @@ For web app developers
 
 For native app developers
 
-For mini program developers
+For mini app developers
 
 For edge server developers
 
