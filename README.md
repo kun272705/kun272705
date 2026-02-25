@@ -24,7 +24,11 @@ For nativeapp developers
 
 For edgeserver developers
 
+1. [EdgeServer](https://github.com/kun272705/EdgeServer)
+
 For coreserver developers
+
+1. [CoreServer](https://github.com/kun272705/CoreServer)
 
 For lovable consumers
 
