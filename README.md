@@ -1,11 +1,11 @@
 
-For software engineers
+For computer software engineers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
 1. [ProgrammingMaterials](https://github.com/kun272705/ProgrammingMaterials)
 
-For programming language speakers
+For programming language chanters
 
 1. [HelloBash](https://github.com/kun272705/HelloBash)
 1. [HelloC](https://github.com/kun272705/HelloC)
