@@ -22,7 +22,7 @@ For web app developers
 
 For native app developers
 
-For mini app developers
+For hybrid app developers
 
 For edge server developers
 
@@ -34,7 +34,7 @@ For core server developers
 1. [WebServer](https://github.com/kun272705/WebServer)
 1. [MyCoreServer](https://github.com/kun272705/MyCoreServer)
 
-For web crawler developers
+For web downloader developers
 
 1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp)
 1. [AquamanEdgeExt](https://github.com/kun272705/AquamanEdgeExt)
