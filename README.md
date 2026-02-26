@@ -1,5 +1,5 @@
 
-For computer software engineers
+For software engineers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
@@ -34,7 +34,7 @@ For core server developers
 1. [WebServer](https://github.com/kun272705/WebServer)
 1. [MyCoreServer](https://github.com/kun272705/MyCoreServer)
 
-For browser workflow developers
+For web browser workflow developers
 
 1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp)
 1. [AquamanEdgeExt](https://github.com/kun272705/AquamanEdgeExt)
