@@ -34,7 +34,7 @@ For core server developers
 1. [WebServer](https://github.com/kun272705/WebServer)
 1. [MyCoreServer](https://github.com/kun272705/MyCoreServer)
 
-For workflow agent developers
+For web workflow developers
 
 1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp)
 1. [AquamanEdgeExt](https://github.com/kun272705/AquamanEdgeExt)
