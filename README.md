@@ -1,14 +1,11 @@
 
-For people
+For human
 
 1. [LivingPrinciple](https://github.com/kun272705/LivingPrinciple)
 
 For lords
 
 1. [RulingPrinciple](https://github.com/kun272705/RulingPrinciple)
-
-For the living
-
 1. [EssentialAbilities](https://github.com/kun272705/EssentialAbilities)
 
 For computer software engineers
