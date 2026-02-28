@@ -3,10 +3,6 @@ For beings
 
 1. [LivingPrinciple](https://github.com/kun272705/LivingPrinciple)
 
-For lords
-
-1. [RulingPrinciple](https://github.com/kun272705/RulingPrinciple)
-
 For computer software engineers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
