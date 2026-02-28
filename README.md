@@ -7,6 +7,10 @@ For lords
 
 1. [RulingPrinciple](https://github.com/kun272705/RulingPrinciple)
 
+For the living
+
+1. [ThreeEssentialAbilities](https://github.com/kun272705/ThreeEssentialAbilities)
+
 For computer software engineers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
