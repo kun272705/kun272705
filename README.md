@@ -9,7 +9,7 @@ For lords
 
 For the living
 
-1. [ThreeEssentialAbilities](https://github.com/kun272705/ThreeEssentialAbilities)
+1. [EssentialAbilities](https://github.com/kun272705/EssentialAbilities)
 
 For computer software engineers
 
