@@ -1,5 +1,5 @@
 
-For human
+For beings
 
 1. [LivingPrinciple](https://github.com/kun272705/LivingPrinciple)
 
