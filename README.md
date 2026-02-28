@@ -1,11 +1,11 @@
 
 For men
 
-1. [LivingPrinciples](https://github.com/kun272705/LivingPrinciples)
+1. [LivingPrinciple](https://github.com/kun272705/LivingPrinciple)
 
 For lords
 
-1. [RulingPrinciples](https://github.com/kun272705/RulingPrinciples)
+1. [RulingPrinciple](https://github.com/kun272705/RulingPrinciple)
 
 For computer software engineers
 
