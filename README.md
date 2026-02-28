@@ -6,7 +6,6 @@ For beings
 For lords
 
 1. [RulingPrinciple](https://github.com/kun272705/RulingPrinciple)
-1. [EssentialAbilities](https://github.com/kun272705/EssentialAbilities)
 
 For computer software engineers
 
