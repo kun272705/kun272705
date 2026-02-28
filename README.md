@@ -4,7 +4,7 @@ For computer software engineers
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
 
-For programming language chanters
+For programming language speakers
 
 1. [HelloBash](https://github.com/kun272705/HelloBash)
 1. [HelloC](https://github.com/kun272705/HelloC)
