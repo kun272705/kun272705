@@ -1,5 +1,5 @@
 
-For men
+For people
 
 1. [LivingPrinciple](https://github.com/kun272705/LivingPrinciple)
 
