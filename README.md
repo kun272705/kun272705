@@ -1,7 +1,7 @@
 
 For beings
 
-1. [LivingPrinciple](https://github.com/kun272705/LivingPrinciple)
+1. [LivingPrinciples](https://github.com/kun272705/LivingPrinciples)
 
 For computer software engineers
 
