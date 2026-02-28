@@ -1,7 +1,11 @@
 
-For the living
+For men
 
 1. [LivingPrinciples](https://github.com/kun272705/LivingPrinciples)
+
+For lords
+
+1. [RulingPrinciples](https://github.com/kun272705/RulingPrinciples)
 
 For computer software engineers
 
