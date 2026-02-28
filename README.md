@@ -1,7 +1,7 @@
 
 For the living
 
-1. [LifePrinciples](https://github.com/kun272705/LifePrinciples)
+1. [LivingPrinciples](https://github.com/kun272705/LivingPrinciples)
 
 For computer software engineers
 
