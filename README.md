@@ -3,6 +3,10 @@ For beings
 
 1. [LivingPrinciples](https://github.com/kun272705/LivingPrinciples)
 
+For chinese
+
+1. [ChineseClassics](https://github.com/kun272705/ChineseClassics)
+
 For computer software engineers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
