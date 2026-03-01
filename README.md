@@ -3,7 +3,7 @@ For beings
 
 1. [LivingPrinciples](https://github.com/kun272705/LivingPrinciples)
 
-For Asian
+For East Asians
 
 1. [ChineseClassics](https://github.com/kun272705/ChineseClassics)
 
