@@ -39,8 +39,3 @@ For edge server developers
 For core server developers
 
 1. [MyCoreServer](https://github.com/kun272705/MyCoreServer) (TODO)
-
-For browser workflow developers
-
-1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp) (TODO)
-1. [AquamanEdgeExt](https://github.com/kun272705/AquamanEdgeExt)
