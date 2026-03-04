@@ -5,7 +5,7 @@ For beings
 
 For East Asians
 
-1. [ChineseClassics](https://github.com/kun272705/ChineseClassics)
+1. [EastAsianClassics](https://github.com/kun272705/EastAsianClassics)
 
 For computer software engineers
 
