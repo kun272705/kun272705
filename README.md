@@ -17,8 +17,6 @@ For programming language speakers
 1. [HelloBash](https://github.com/kun272705/HelloBash) (TODO)
 1. [HelloC](https://github.com/kun272705/HelloC) (TODO)
 1. [HelloJava](https://github.com/kun272705/HelloJava) (TODO)
-1. [HelloHTML](https://github.com/kun272705/HelloHTML) (TODO)
-1. [HelloCSS](https://github.com/kun272705/HelloCSS) (TODO)
 1. [HelloJavaScript](https://github.com/kun272705/HelloJavaScript) (TODO)
 
 For web server developers
