@@ -21,6 +21,10 @@ For programming language speakers
 1. [HelloCSS](https://github.com/kun272705/HelloCSS) (TODO)
 1. [HelloJavaScript](https://github.com/kun272705/HelloJavaScript) (TODO)
 
+For web server developers
+
+1. [MyWebServer](https://github.com/kun272705/MyWebServer)
+
 For web app developers
 
 1. [MyWebApp](https://github.com/kun272705/MyWebApp)
