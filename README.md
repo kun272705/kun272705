@@ -10,20 +10,20 @@ For East Asians
 For computer software engineers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
-1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
+1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples) (TODO)
 
 For programming language speakers
 
-1. [HelloBash](https://github.com/kun272705/HelloBash)
-1. [HelloC](https://github.com/kun272705/HelloC)
-1. [HelloJava](https://github.com/kun272705/HelloJava)
-1. [HelloHTML](https://github.com/kun272705/HelloHTML)
-1. [HelloCSS](https://github.com/kun272705/HelloCSS)
-1. [HelloJavaScript](https://github.com/kun272705/HelloJavaScript)
+1. [HelloBash](https://github.com/kun272705/HelloBash) (TODO)
+1. [HelloC](https://github.com/kun272705/HelloC) (TODO)
+1. [HelloJava](https://github.com/kun272705/HelloJava) (TODO)
+1. [HelloHTML](https://github.com/kun272705/HelloHTML) (TODO)
+1. [HelloCSS](https://github.com/kun272705/HelloCSS) (TODO)
+1. [HelloJavaScript](https://github.com/kun272705/HelloJavaScript) (TODO)
 
 For web app developers
 
-1. [WebServer](https://github.com/kun272705/WebServer)
+1. [WebServer](https://github.com/kun272705/WebServer) (TODO)
 1. [MyWebApp](https://github.com/kun272705/MyWebApp)
 1. [JavaScriptPolyfiller](https://github.com/kun272705/JavaScriptPolyfiller)
 
@@ -33,15 +33,15 @@ For hybrid app developers
 
 For edge server developers
 
-1. [WebServer](https://github.com/kun272705/WebServer)
-1. [MyEdgeServer](https://github.com/kun272705/MyEdgeServer)
+1. [WebServer](https://github.com/kun272705/WebServer) (TODO)
+1. [MyEdgeServer](https://github.com/kun272705/MyEdgeServer) (TODO)
 
 For core server developers
 
-1. [WebServer](https://github.com/kun272705/WebServer)
-1. [MyCoreServer](https://github.com/kun272705/MyCoreServer)
+1. [WebServer](https://github.com/kun272705/WebServer) (TODO)
+1. [MyCoreServer](https://github.com/kun272705/MyCoreServer) (TODO)
 
 For browser workflow developers
 
-1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp)
-1. [AquamanEdgeExt](https://github.com/kun272705/AquamanEdgeExt)
+1. [AquamanWindowsApp](https://github.com/kun272705/AquamanWindowsApp) (TODO)
+1. [AquamanEdgeExt](https://github.com/kun272705/AquamanEdgeExt) (TODO)
