@@ -23,7 +23,6 @@ For programming language speakers
 
 For web app developers
 
-1. [MyWebServer](https://github.com/kun272705/MyWebServer) (TODO)
 1. [MyWebApp](https://github.com/kun272705/MyWebApp)
 1. [JavaScriptPolyfiller](https://github.com/kun272705/JavaScriptPolyfiller)
 
@@ -33,12 +32,10 @@ For hybrid app developers
 
 For edge server developers
 
-1. [MyWebServer](https://github.com/kun272705/MyWebServer) (TODO)
 1. [MyEdgeServer](https://github.com/kun272705/MyEdgeServer) (TODO)
 
 For core server developers
 
-1. [MyWebServer](https://github.com/kun272705/MyWebServer) (TODO)
 1. [MyCoreServer](https://github.com/kun272705/MyCoreServer) (TODO)
 
 For browser workflow developers
