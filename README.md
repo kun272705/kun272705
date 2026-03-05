@@ -3,10 +3,6 @@ For East Asians
 
 1. [EastAsianClassics](https://github.com/kun272705/EastAsianClassics)
 
-For human beings
-
-1. [LivingPrinciples](https://github.com/kun272705/LivingPrinciples)
-
 For computer software engineers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
