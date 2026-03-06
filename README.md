@@ -1,8 +1,4 @@
 
-For East Asians
-
-1. [EastAsianClassics](https://github.com/kun272705/EastAsianClassics)
-
 For computer software engineers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
