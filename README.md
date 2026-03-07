@@ -15,6 +15,14 @@ For web server developers
 
 1. [MyWebServer](https://github.com/kun272705/MyWebServer) (TODO)
 
+For core server developers
+
+1. [MyCoreServer](https://github.com/kun272705/MyCoreServer) (TODO)
+
+For edge server developers
+
+1. [MyEdgeServer](https://github.com/kun272705/MyEdgeServer) (TODO)
+
 For web app developers
 
 1. [MyWebApp](https://github.com/kun272705/MyWebApp) (TODO)
@@ -23,11 +31,3 @@ For web app developers
 For native app developers
 
 For hybrid app developers
-
-For edge server developers
-
-1. [MyEdgeServer](https://github.com/kun272705/MyEdgeServer) (TODO)
-
-For core server developers
-
-1. [MyCoreServer](https://github.com/kun272705/MyCoreServer) (TODO)
