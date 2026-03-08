@@ -1,33 +1,33 @@
 
-computer software engineer
+For computer software engineers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples) (TODO)
 
-programming language speaker
+For programming language speakers
 
 1. [HelloBash](https://github.com/kun272705/HelloBash) (TODO)
 1. [HelloC](https://github.com/kun272705/HelloC) (TODO)
 1. [HelloJava](https://github.com/kun272705/HelloJava) (TODO)
 1. [HelloJavaScript](https://github.com/kun272705/HelloJavaScript) (TODO)
 
-web server developer
+For web server developers
 
 1. [MyWebServer](https://github.com/kun272705/MyWebServer) (TODO)
 
-core server developer
+For core server developers
 
 1. [MyCoreServer](https://github.com/kun272705/MyCoreServer) (TODO)
 
-edge server developer
+For edge server developers
 
 1. [MyEdgeServer](https://github.com/kun272705/MyEdgeServer) (TODO)
 
-web app developer
+For web app developers
 
 1. [MyWebApp](https://github.com/kun272705/MyWebApp) (TODO)
 1. [JavaScriptPolyfiller](https://github.com/kun272705/JavaScriptPolyfiller)
 
-native app developer
+For native app developers
 
-hybrid app developer
+For hybrid app developers
