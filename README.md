@@ -2,10 +2,10 @@
 For computer system designers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
-1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples) (TODO)
 
 For programming language speakers
 
+1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples) (TODO)
 1. [HelloBash](https://github.com/kun272705/HelloBash) (TODO)
 1. [HelloC](https://github.com/kun272705/HelloC) (TODO)
 1. [HelloJava](https://github.com/kun272705/HelloJava) (TODO)
