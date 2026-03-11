@@ -3,7 +3,7 @@ For computer system designers
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
 
-For programming language speakers
+For programmers
 
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples) (TODO)
 1. [HelloBash](https://github.com/kun272705/HelloBash) (TODO)
