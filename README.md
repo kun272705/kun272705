@@ -1,7 +1,7 @@
 
-Got you a fun tool
+Fit yourself a fun tool
 
-For web document/program/API site development
+For web document/program/API site development:
 
 - [MyWebXEngine](https://github.com/kun272705/MyWebXEngine)
 - [MyWebX](https://github.com/kun272705/MyWebX)
