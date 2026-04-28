@@ -1,5 +1,5 @@
 
-Pick yourself a fun tool
+Help yourself a fun tool
 
 For web document/program/API site development:
 
