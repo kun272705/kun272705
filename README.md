@@ -1,5 +1,5 @@
 
-Enjoy yourself a fresh life
+Enjoy yourself a fresh life.
 
 For computer learning:
 
