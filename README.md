@@ -1,6 +1,12 @@
 
 Help yourself a fun tool
 
+For computer learning:
+
+- [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
+- [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
+- [SomeCleverIdeas](https://github.com/kun272705/SomeCleverIdeas)
+
 For web document/program/API site development:
 
 - [MyWebXEngine](https://github.com/kun272705/MyWebXEngine)
