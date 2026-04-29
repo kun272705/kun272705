@@ -1,5 +1,5 @@
 
-Help yourself a fresh art
+Enjoy yourself a fresh life
 
 For computer learning:
 
