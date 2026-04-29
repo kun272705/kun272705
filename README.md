@@ -1,6 +1,4 @@
 
-Enjoy yourself a fresh life.
-
 For computer learning:
 
 - [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
