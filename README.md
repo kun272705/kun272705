@@ -3,7 +3,7 @@ For computer learning:
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
-1. [SomeCleverIdeas](https://github.com/kun272705/SomeCleverIdeas)
+1. [SomeScientificMethods](https://github.com/kun272705/SomeScientificMethods)
 
 For web document/program/API site development:
 
