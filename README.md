@@ -5,7 +5,7 @@ Study computer programming:
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
 1. [SomeScientificMethods](https://github.com/kun272705/SomeScientificMethods)
 
-Make web document/program/API:
+Make web documents/programs/APIs:
 
 1. [MyWebContainerBuilder](https://github.com/kun272705/MyWebContainerBuilder)
 1. [MyWebElementBuilder](https://github.com/kun272705/MyWebElementBuilder)
