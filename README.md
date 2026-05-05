@@ -3,7 +3,7 @@ Study computer programming:
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
-1. [SomeScientificMethods](https://github.com/kun272705/SomeScientificMethods)
+1. [EngineeringMethods](https://github.com/kun272705/EngineeringMethods)
 
 Make web documents/programs/APIs:
 
