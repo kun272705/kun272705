@@ -1,10 +1,12 @@
 
-Study computer programming:
+Study computer:
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
+
+Study programming:
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
 
-Make web documents/programs/APIs:
+Make web document/program/API:
 
 1. [MyWebElementBuilder](https://github.com/kun272705/MyWebElementBuilder)
 1. [MyJavaScriptPolyfillBuilder](https://github.com/kun272705/MyJavaScriptPolyfillBuilder)
