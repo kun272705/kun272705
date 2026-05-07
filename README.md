@@ -1,9 +1,9 @@
 
-Study computer:
+Study computer technology:
 
 1. [ComputerPrinciples](https://github.com/kun272705/ComputerPrinciples)
 
-Study programming:
+Study programming technology:
 1. [ProgrammingPrinciples](https://github.com/kun272705/ProgrammingPrinciples)
 
 Make web document/program/API:
