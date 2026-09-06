@@ -13,6 +13,6 @@ About app creation
 - [HTML](https://github.com/kun272705/HTML)
 - [CSS](https://github.com/kun272705/CSS)
 - [Java](https://github.com/kun272705/Java)
-- [myserverbuilder](https://github.com/kun272705/myserverbuilder)
-- [myhandlerbuilder](https://github.com/kun272705/myhandlerbuilder)
+- [mywebappserverbuilder](https://github.com/kun272705/mywebappserverbuilder)
+- [mywebapphandlerbuilder](https://github.com/kun272705/mywebapphandlerbuilder)
 - [polyfill](https://github.com/kun272705/polyfill)
