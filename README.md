@@ -1,10 +1,10 @@
 README
 
-
+About role-playing
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 
-
+About app creation
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
