@@ -1,10 +1,10 @@
 README
 
-Living
+About role palying
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 
-Appmaking
+About app making
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
