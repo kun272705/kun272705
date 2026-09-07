@@ -3,7 +3,6 @@ README
 About living
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
-- [Where-Is-Beauty](https://github.com/kun272705/Where-Is-Beauty)
 
 About resource allocation
 
