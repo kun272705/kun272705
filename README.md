@@ -4,6 +4,7 @@ The art of enjoying life
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 - [What-Is-Beauty](https://github.com/kun272705/What-Is-Beauty)
+- [How-to-Make-It-Beautiful](https://github.com/kun272705/How-to-Make-It-Beautiful)
 
 The art of allocating resources
 
