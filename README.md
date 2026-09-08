@@ -4,7 +4,6 @@ The art of suffering life
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 - [What-Is-Beauty](https://github.com/kun272705/What-Is-Beauty)
-- [Treatment-for-Disheartenment](https://github.com/kun272705/Treatment-for-Disheartenment)
 
 The art of allocating resources
 
