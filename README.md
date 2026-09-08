@@ -1,6 +1,6 @@
 README
 
-The art of suffering life
+The art of enjoying life
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 - [What-Is-Beauty](https://github.com/kun272705/What-Is-Beauty)
