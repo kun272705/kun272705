@@ -4,9 +4,9 @@ About suffering life
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 
-About allocating resource
+About allocating resources
 
-About creating app
+About creating apps
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
