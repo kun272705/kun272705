@@ -1,12 +1,12 @@
 README
 
-About suffering life
+The art of suffering life
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 
-About allocating resources
+The art of allocating resources
 
-About creating apps
+The art of creating apps
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
