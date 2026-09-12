@@ -1,6 +1,6 @@
 README
 
-The art of enjoying life
+The art of enjoying ourselves
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 - [What-Is-Beauty](https://github.com/kun272705/What-Is-Beauty)
