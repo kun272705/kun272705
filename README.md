@@ -6,7 +6,7 @@ The art of enjoying life
 - [What-Is-Beauty](https://github.com/kun272705/What-Is-Beauty)
 - [How-to-Make-It-Beautiful](https://github.com/kun272705/How-to-Make-It-Beautiful)
 
-The art of allocating resources
+The art of entertaining human
 
 The art of creating apps
 
