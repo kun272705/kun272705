@@ -6,8 +6,6 @@ The art of enjoying ourselves
 - [What-Is-Beauty](https://github.com/kun272705/What-Is-Beauty)
 - [How-to-Make-It-Beautiful](https://github.com/kun272705/How-to-Make-It-Beautiful)
 
-The art of petting humans
-
 The art of creating apps
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
