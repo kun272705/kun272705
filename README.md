@@ -4,7 +4,6 @@ The art of enjoying life
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 - [Beauty](https://github.com/kun272705/Beauty)
-- [The-Two-Paths](https://github.com/kun272705/The-Two-Paths)
 
 The art of making software
 
