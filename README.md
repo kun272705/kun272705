@@ -6,8 +6,6 @@ The art of enjoying life
 - [Beauty](https://github.com/kun272705/Beauty)
 - [The-Two-Paths](https://github.com/kun272705/The-Two-Paths)
 
-The art of gaining power
-
 The art of making software
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
