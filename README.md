@@ -8,7 +8,7 @@ The art of enjoying life
 
 The art of gaining power
 
-The art of creating apps
+The art of making software
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
