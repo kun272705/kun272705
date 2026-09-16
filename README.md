@@ -1,11 +1,11 @@
 README
 
-The art of enjoying life
+The Art of Enjoying Life
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 - [Beauty](https://github.com/kun272705/Beauty)
 
-The art of making software
+The Art of Making Software
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
