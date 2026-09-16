@@ -2,7 +2,7 @@ README
 
 She Is More Than Beautiful
 
-The Art of Enjoying Life
+The Art of Living Life
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
 - [Beauty](https://github.com/kun272705/Beauty)
