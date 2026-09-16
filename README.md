@@ -4,7 +4,7 @@ The art of enjoying life
 
 - [The-Root-Problem](https://github.com/kun272705/The-Root-Problem)
 - [Beauty](https://github.com/kun272705/Beauty)
-- [How-to-Make-It-Beautiful](https://github.com/kun272705/How-to-Make-It-Beautiful)
+- [The-Two-Paths](https://github.com/kun272705/The-Two-Paths)
 
 The art of gaining power
 
