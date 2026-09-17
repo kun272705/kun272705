@@ -8,7 +8,7 @@ The Root Purpose
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
 
-The Art of Making Software
+The Art of Writing Software
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
