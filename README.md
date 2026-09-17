@@ -4,7 +4,7 @@ Beauty
 
 - [Beauty](https://github.com/kun272705/Beauty)
 
-The Art of Living Life
+The Root Purpose
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
 
