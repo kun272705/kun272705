@@ -2,12 +2,11 @@ README
 
 Beauty
 
-- 张弛
+- [Beauty](https://github.com/kun272705/Beauty)
 
 The Art of Living Life
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
-- [Beauty](https://github.com/kun272705/Beauty)
 
 The Art of Making Software
 
