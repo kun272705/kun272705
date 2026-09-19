@@ -1,12 +1,8 @@
 README
 
-Beauty
+[Beauty](https://github.com/kun272705/Beauty)
 
-- [Beauty](https://github.com/kun272705/Beauty)
-
-The Root Purpose
-
-- [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
+[The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
 
 The Art of Writing Software
 
