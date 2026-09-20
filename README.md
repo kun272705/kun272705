@@ -1,8 +1,8 @@
 README
 
-Beauty
+The True Beauty
 
-- [Beauty](https://github.com/kun272705/Beauty)
+- [The-True-Beauty](https://github.com/kun272705/The-True-Beauty)
 
 The Root Purpose
 
