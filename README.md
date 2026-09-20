@@ -8,6 +8,10 @@ The Root Purpose
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
 
+The Right Place
+
+- [The-Right-Place](https://github.com/kun272705/The-Right-Place)
+
 The Art of Writing WebApps
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
