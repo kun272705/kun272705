@@ -8,11 +8,11 @@ Beauty
 
 - [Beauty](https://github.com/kun272705/Beauty)
 
-The Positive Place
+A Sunny Spot
 
-- [The-Positive-Place](https://github.com/kun272705/The-Positive-Place)
+- [A-Sunny-Spot](https://github.com/kun272705/A-Sunny-Spot)
 
-The Art of Making Apps
+The Art of Writing Apps
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
