@@ -10,7 +10,7 @@ Beauty
 
 The Right Place
 
-- [The Right Place](https://github.com/kun272705/The-Right-Place)
+- [The-Right-Place](https://github.com/kun272705/The-Right-Place)
 
 The Art of Writing Apps
 
