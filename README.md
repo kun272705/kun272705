@@ -8,9 +8,9 @@ Beauty
 
 - [Beauty](https://github.com/kun272705/Beauty)
 
-A Sunny Spot
+The Right Place
 
-- [A-Sunny-Spot](https://github.com/kun272705/A-Sunny-Spot)
+- [The Right Place](https://github.com/kun272705/The-Right-Place)
 
 The Art of Writing Apps
 
