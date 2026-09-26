@@ -8,10 +8,6 @@ Beauty
 
 - [Beauty](https://github.com/kun272705/Beauty)
 
-The Right Place
-
-- [The-Right-Place](https://github.com/kun272705/The-Right-Place)
-
 The Art of Writing Apps
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
