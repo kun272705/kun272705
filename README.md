@@ -8,9 +8,9 @@ Beauty
 
 - [Beauty](https://github.com/kun272705/Beauty)
 
-The Break Point
+The Great Wall
 
-- [The-Break-Point](https://github.com/kun272705/The-Break-Point)
+- [The-Great-Wall](https://github.com/kun272705/The-Great-Wall)
 
 A Skeleton of Writing Apps
 
