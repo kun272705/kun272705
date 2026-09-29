@@ -8,7 +8,7 @@ Beauty
 
 - [Beauty](https://github.com/kun272705/Beauty)
 
-The Skeleton of Writing Apps
+A Skeleton of Writing Apps
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
