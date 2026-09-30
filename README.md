@@ -1,15 +1,9 @@
 README
 
-The Root Purpose
+Life
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
-
-Beauty
-
 - [Beauty](https://github.com/kun272705/Beauty)
-
-Dangerous and Beautiful
-
 - [Dangerous-and-Beautiful](https://github.com/kun272705/Dangerous-and-Beautiful)
 
 A Skeleton of Writing Apps
