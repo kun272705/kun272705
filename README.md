@@ -8,9 +8,9 @@ Beauty
 
 - [Beauty](https://github.com/kun272705/Beauty)
 
-The Great Wall
+Beautiful and Dangerous
 
-- [The-Great-Wall](https://github.com/kun272705/The-Great-Wall)
+- [Beautiful-and-Dangerous](https://github.com/kun272705/Beautiful-and-Dangerous)
 
 A Skeleton of Writing Apps
 
