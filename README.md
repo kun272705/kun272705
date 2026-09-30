@@ -1,12 +1,12 @@
 README
 
-Life
+The Art of Enduring Days
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
 - [Beauty](https://github.com/kun272705/Beauty)
 - [Dangerous-and-Beautiful](https://github.com/kun272705/Dangerous-and-Beautiful)
 
-A Skeleton of Writing Apps
+The Art of Writing Apps
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
