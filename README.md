@@ -8,9 +8,9 @@ Beauty
 
 - [Beauty](https://github.com/kun272705/Beauty)
 
-Beautiful and Dangerous
+Dangerous and Beautiful
 
-- [Beautiful-and-Dangerous](https://github.com/kun272705/Beautiful-and-Dangerous)
+- [Dangerous-and-Beautiful](https://github.com/kun272705/Dangerous-and-Beautiful)
 
 A Skeleton of Writing Apps
 
