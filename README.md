@@ -3,7 +3,7 @@ README
 The Art of Enduring Days
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
-- [Beauty](https://github.com/kun272705/Beauty)
+- [Good](https://github.com/kun272705/Good)
 - [Desire-and-Fear](https://github.com/kun272705/Desire-and-Fear)
 
 The Art of Writing Apps
