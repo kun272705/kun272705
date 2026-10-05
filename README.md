@@ -4,7 +4,7 @@ The Art of Enduring Days
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
 - [Good](https://github.com/kun272705/Good)
-- [Nerve-Wracking-Succubus](https://github.com/kun272705/Nerve-Wracking-Succubus)
+- [Nerve-Wracking-Succubi](https://github.com/kun272705/Nerve-Wracking-Succubi)
 
 The Art of Writing Apps
 
