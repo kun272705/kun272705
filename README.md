@@ -3,7 +3,6 @@ README
 The Art of Enduring Days
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
-- [Good](https://github.com/kun272705/Good)
 
 The Art of Writing Apps
 
