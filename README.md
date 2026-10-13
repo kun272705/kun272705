@@ -9,6 +9,7 @@ The Art of Designing Apps
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
 - [Program-Design-Principles](https://github.com/kun272705/Program-Design-Principles)
+- [Bash](https://github.com/kun272705/Bash)
 - [Java](https://github.com/kun272705/Java)
 - [JavaScript](https://github.com/kun272705/JavaScript)
 - [HTML](https://github.com/kun272705/HTML)
