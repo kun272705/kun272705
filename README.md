@@ -1,10 +1,10 @@
 README
 
-The Art of Enduring Days
+The Art of Enjoying Days
 
 - [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
 
-The Art of Writing Apps
+The Art of Designing Apps
 
 - [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
 - [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
