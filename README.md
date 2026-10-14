@@ -21,5 +21,3 @@ The Art of Designing WebApps
 - [mywebapphandlerbuilder](https://github.com/kun272705/mywebapphandlerbuilder)
 - [polyfill](https://github.com/kun272705/polyfill)
 
-Kun's Tailored Apps
-
