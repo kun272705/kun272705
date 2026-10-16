@@ -2,19 +2,19 @@ README
 
 The Art of Enjoying Days
 
-- [The-Root-Purpose](https://github.com/kun272705/The-Root-Purpose)
+- [The-Art-of-Enjoying-Days](https://github.com/kun272705/The-Art-of-Enjoying-Days)
 
 The Art of Designing Computers
 
-- [Computer-Design-Principles](https://github.com/kun272705/Computer-Design-Principles)
+- [The-Art-of-Designing-Computers](https://github.com/kun272705/The-Art-of-Designing-Computers)
 
 The Art of Designing Networks
 
-- [Network-Design-Principles](https://github.com/kun272705/Network-Design-Principles)
+- [The-Art-of-Designing-Networks](https://github.com/kun272705/The-Art-of-Designing-Networks)
 
 The Art of Designing Programs
 
-- [Program-Design-Principles](https://github.com/kun272705/Program-Design-Principles)
+- [The-Art-of-Designing-Programs](https://github.com/kun272705/The-Art-of-Designing-Programs)
 
 The Art of Making WebApps
 
