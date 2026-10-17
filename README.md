@@ -1,8 +1,8 @@
 README
 
-The Art of Enjoying Days
+The Art of Spending Days
 
-- [The-Art-of-Enjoying-Days](https://github.com/kun272705/The-Art-of-Enjoying-Days)
+- [The-Art-of-Spending-Days](https://github.com/kun272705/The-Art-of-Spending-Days)
 
 The Art of Designing Computers
 
