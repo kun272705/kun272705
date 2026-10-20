@@ -1,5 +1,9 @@
 README
 
+The Art of Spending Days
+
+- [kun272705/The-Art-of-Spending-Days](https://github.com/kun272705/The-Art-of-Spending-Days)
+
 The Art of Designing Computers
 
 - [kun272705/The-Art-of-Designing-Computers](https://github.com/kun272705/The-Art-of-Designing-Computers)
