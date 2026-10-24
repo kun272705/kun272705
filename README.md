@@ -6,6 +6,8 @@ The Art of Spending Days
 
 The Art of Farming Preys
 
+- [kun272705/The-Art-of-Farming-Preys](https://github.com/kun272705/The-Art-of-Farming-Preys)
+
 The Art of Making Apps
 
 - [kun272705/The-Art-of-Designing-Computers](https://github.com/kun272705/The-Art-of-Designing-Computers)
