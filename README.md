@@ -4,9 +4,9 @@ The Art of Spending Days
 
 - [kun272705/The-Art-of-Spending-Days](https://github.com/kun272705/The-Art-of-Spending-Days)
 
-The Art of Farming Preys
+The Art of Farming NPCs
 
-- [kun272705/The-Art-of-Farming-Preys](https://github.com/kun272705/The-Art-of-Farming-Preys)
+- [kun272705/The-Art-of-Farming-NPCs](https://github.com/kun272705/The-Art-of-Farming-NPCs)
 
 The Art of Making Apps
 
