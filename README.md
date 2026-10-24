@@ -4,6 +4,8 @@ The Art of Spending Days
 
 - [kun272705/The-Art-of-Spending-Days](https://github.com/kun272705/The-Art-of-Spending-Days)
 
+The Art of Farming Prey
+
 The Art of Making WebApps
 
 - [kun272705/The-Art-of-Designing-Computers](https://github.com/kun272705/The-Art-of-Designing-Computers)
