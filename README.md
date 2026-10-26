@@ -4,10 +4,6 @@ The Art of Spending Days
 
 - [kun272705/The-Art-of-Spending-Days](https://github.com/kun272705/The-Art-of-Spending-Days)
 
-The Art of Playing Chess
-
-- [kun272705/The-Art-of-Playing-Chess](https://github.com/kun272705/The-Art-of-Playing-Chess)
-
 The Art of Making Apps
 
 - [kun272705/The-Art-of-Designing-Computers](https://github.com/kun272705/The-Art-of-Designing-Computers)
