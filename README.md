@@ -1,23 +1,23 @@
 README
 
-The Art of Designing WebApps
+The Art of Designing Apps
 
-Part 1: Theories
+- Part 1: Principles
 
-- [kun272705/The-Art-of-Designing-Computers](https://github.com/kun272705/The-Art-of-Designing-Computers)
-- [kun272705/The-Art-of-Designing-Networks](https://github.com/kun272705/The-Art-of-Designing-Networks)
-- [kun272705/The-Art-of-Designing-Programs](https://github.com/kun272705/The-Art-of-Designing-Programs)
+    - [kun272705/The-Art-of-Designing-Computers](https://github.com/kun272705/The-Art-of-Designing-Computers)
+    - [kun272705/The-Art-of-Designing-Networks](https://github.com/kun272705/The-Art-of-Designing-Networks)
+    - [kun272705/The-Art-of-Designing-Programs](https://github.com/kun272705/The-Art-of-Designing-Programs)
 
-Part 2: Tools
+- Part 2: Tools
 
-- [kun272705/Bash](https://github.com/kun272705/Bash) (To be continued)
-- [kun272705/Java](https://github.com/kun272705/Java)
-- [kun272705/JavaScript](https://github.com/kun272705/JavaScript)
-- [kun272705/HTML](https://github.com/kun272705/HTML)
-- [kun272705/CSS](https://github.com/kun272705/CSS)
-- [kun272705/polyfill](https://github.com/kun272705/polyfill)
-- [kun272705/mywebapphandlerbuilder](https://github.com/kun272705/mywebapphandlerbuilder)
-- [kun272705/mywebappserverbuilder](https://github.com/kun272705/mywebappserverbuilder) (To be continued)
+    - [kun272705/Bash](https://github.com/kun272705/Bash) (To be continued)
+    - [kun272705/Java](https://github.com/kun272705/Java)
+    - [kun272705/JavaScript](https://github.com/kun272705/JavaScript)
+    - [kun272705/HTML](https://github.com/kun272705/HTML)
+    - [kun272705/CSS](https://github.com/kun272705/CSS)
+    - [kun272705/polyfill](https://github.com/kun272705/polyfill)
+    - [kun272705/mywebapphandlerbuilder](https://github.com/kun272705/mywebapphandlerbuilder)
+    - [kun272705/mywebappserverbuilder](https://github.com/kun272705/mywebappserverbuilder) (To be continued)
 
-Part 3: Works
+- Part 3: Artworks
 
