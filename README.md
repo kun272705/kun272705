@@ -8,7 +8,7 @@ The Art of Designing Apps
     - [kun272705/The-Art-of-Designing-Networks](https://github.com/kun272705/The-Art-of-Designing-Networks)
     - [kun272705/The-Art-of-Designing-Programs](https://github.com/kun272705/The-Art-of-Designing-Programs)
 
-- Part 2: Tools
+- Part 2: Tools and Materials
 
     - [kun272705/Bash](https://github.com/kun272705/Bash) (To be continued)
     - [kun272705/Java](https://github.com/kun272705/Java)
