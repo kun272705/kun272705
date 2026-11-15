@@ -1,6 +1,6 @@
 README
 
-The Art of Designing Apps
+The Art of Developing Apps
 
 - Part 1: Principles
 
