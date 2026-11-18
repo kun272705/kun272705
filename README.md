@@ -2,23 +2,23 @@ README
 
 The Art of Designing Apps
 
-- Part 1: Principles
+* Part 1: Principles
 
-    - [kun272705/The-Art-of-Designing-Computers](https://github.com/kun272705/The-Art-of-Designing-Computers)
-    - [kun272705/The-Art-of-Designing-Networks](https://github.com/kun272705/The-Art-of-Designing-Networks)
-    - [kun272705/The-Art-of-Designing-Programs](https://github.com/kun272705/The-Art-of-Designing-Programs)
+    * [kun272705/The-Art-of-Designing-Computers](https://github.com/kun272705/The-Art-of-Designing-Computers)
+    * [kun272705/The-Art-of-Designing-Networks](https://github.com/kun272705/The-Art-of-Designing-Networks)
+    * [kun272705/The-Art-of-Designing-Programs](https://github.com/kun272705/The-Art-of-Designing-Programs)
 
-- Part 2: Tools and Materials
+* Part 2: Tools and Materials
 
-    - [kun272705/Bash](https://github.com/kun272705/Bash)
-    - [kun272705/Java](https://github.com/kun272705/Java)
-    - [kun272705/JavaScript](https://github.com/kun272705/JavaScript)
-    - [kun272705/HTML](https://github.com/kun272705/HTML)
-    - [kun272705/CSS](https://github.com/kun272705/CSS)
+    * [kun272705/Bash](https://github.com/kun272705/Bash)
+    * [kun272705/Java](https://github.com/kun272705/Java)
+    * [kun272705/JavaScript](https://github.com/kun272705/JavaScript)
+    * [kun272705/HTML](https://github.com/kun272705/HTML)
+    * [kun272705/CSS](https://github.com/kun272705/CSS)
 
-- Part 3: Artworks
+* Part 3: Artworks
 
-    - [kun272705/mywebappserverbuilder](https://github.com/kun272705/mywebappserverbuilder)
-    - [kun272705/mywebapphandlerbuilder](https://github.com/kun272705/mywebapphandlerbuilder)
-    - [kun272705/polyfill](https://github.com/kun272705/polyfill)
+    * [kun272705/mywebappserverbuilder](https://github.com/kun272705/mywebappserverbuilder)
+    * [kun272705/mywebapphandlerbuilder](https://github.com/kun272705/mywebapphandlerbuilder)
+    * [kun272705/polyfill](https://github.com/kun272705/polyfill)
 
