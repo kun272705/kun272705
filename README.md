@@ -16,7 +16,7 @@ The Art of Designing Apps
     * [kun272705/HTML](https://github.com/kun272705/HTML)
     * [kun272705/CSS](https://github.com/kun272705/CSS)
 
-* Part 3: Artworks
+* Part 3: Works
 
     * [kun272705/mywebappserverbuilder](https://github.com/kun272705/mywebappserverbuilder)
     * [kun272705/mywebapphandlerbuilder](https://github.com/kun272705/mywebapphandlerbuilder)
