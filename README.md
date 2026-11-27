@@ -1,6 +1,6 @@
 README
 
-Programming
+The Art of Designing Apps
 
 * Part 1: Principles
 
